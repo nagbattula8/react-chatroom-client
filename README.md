@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This application is written using react js. This is the client side application designed to run the chat room. When the server is open, the client connects to the application by a username and either creates a new room or joins an existing room.
+
+
+https://5f3208c2585201fa4ed22180--quizzical-minsky-50f3a1.netlify.app/ - Client demo.
+
 ## Available Scripts
 
 In the project directory, you can run:
